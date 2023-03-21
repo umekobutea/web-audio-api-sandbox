@@ -1,5 +1,5 @@
 export default {
   rootDir: "./public/",
-  appIndex: "public/sandbox.html",
+  appIndex: "public/index.html",
   watch: true
 };
